@@ -1,19 +1,28 @@
 ## Introduction
 
-Add project description here. What will learners be making?
-
-### What you will make
-
-Add something here to showcase here, for example:
+In this project, we are going to create a game in which Toby the dog has to collect 5 cheese-puffs bowls to win, whilst preventing balls from falling on the floor. 
+If Toby drops more than 2 balls, the game is over. So the question is: can you keep all the balls in the air?
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/49677948/?autostart=false" frameborder="0"></iframe>
+  <img src="images/Toby_dog.png">
 </div>
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
 
-### What you will learn
+### Additional information for club leaders
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+If you need to print this project, please use the [Printer friendly version](./print).
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+
+
+
+--- collapse ---
+---
+title: Project materials
+---
+
+
+## Club leader resources
+* [Downloadable completed Scratch 2 project](resources/Toby.sb2)
+
+--- /collapse ---
