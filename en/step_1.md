@@ -11,7 +11,7 @@ If Toby drops more than 2 balls, the game is over. So the question is: can you k
 
 ### Additional information for club leaders
 
-If you need to print this project, please use the [Printer friendly version](./print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberry-pi.org/en/projects/toby/print).
 
 
 
